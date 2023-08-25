@@ -15,3 +15,4 @@ These notebooks are intended for learning the Python programming language in rel
 | 9 | [Notebook]() | Using the matplotlib and seaborn modules for plotting (e.g. with the archaeal genome) | 
 | 10 | [Notebook]() | **Analysis of genomic sequences (Part II)** | 
 
+**Additional literature** on the block can be found at the link [in the article](https://vk.com/@nachatoi-literatura-po-python). Also **anecdote about bioinformatics** can be found [via the link](https://elementy.ru/nauchno-populyarnaya_biblioteka/432183/Bioinformatiki_proiskhozhdenie_i_zhiznennyy_tsikl) :)
