@@ -1,1 +1,13 @@
-# python
+# Python part
+
+| № | Links | Description | 
+| ----------- | ----------- | ----------- | 
+| 1 | [Notebook]() | Introduction to Python and variable types | 
+| 2 | [Notebook]() | f-strings, conditional statements if-elif-else and the for loop | 
+| 3 | [Notebook]() | The while loop, lists, and tuples |
+| 4 | [Notebook]() | Dictionaries, sets, and defining functions (def) | 
+| 5 | [Notebook]() | Working with files (e. g. _Escherichia coli_ genome) | 
+| 6 | [Notebook]() | Analysis of genomic sequences | 
+| 7 | [Notebook]() | The random module (e. g. for the _Arabidopsis thaliana_ and human genomes) | 
+| 8 | [Notebook]() | The numpy and pandas modules for Data Science | 
+| 9 | [Notebook]() | Using the matplotlib and seaborn modules for plotting (e. g. with the archaeal genome) | 
