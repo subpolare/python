@@ -7,7 +7,7 @@ These notebooks are intended for learning the Python programming language in rel
 | 1 | Notebook | Introduction to Python and variable types | 
 | 2 | Notebook | f-strings, conditional statements if-elif-else and the for loop | 
 | 3 | Notebook | The while loop, lists, and tuples |
-| 4 | Notebook | Dictionaries, sets, and defining functions (def) | 
+| 4 | Notebook | Dictionaries, sets and defining functions (def) | 
 | 5 | Notebook | Working with files (e.g. _Escherichia coli_ genome) | 
 | 6 | Notebook | **Analysis of genomic sequences (Part I)** | 
 | 7 | Notebook | The random module (e.g. for the _Arabidopsis thaliana_ and human genomes) | 
