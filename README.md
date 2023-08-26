@@ -3,7 +3,7 @@
 These notebooks are intended for learning the Python programming language in relation to biological disciplines and bioinformatics in particular. Lessons are held in the [Google Coollaboratory](https://colab.research.google.com/) which can be used for any programming in Python, BASH and another.
 
 |  | Links | Answers | Description | 
-| ----------- | ----------- | ----------- | ----------- | 
+| :------: | :------: | :------: | :------ | 
 | 1 | Notebook | Notebook | Introduction to Python and variable types | 
 | 2 | Notebook | Notebook | f-strings, conditional statements if-elif-else and the for loop | 
 | 3 | Notebook | Notebook | The while loop, lists and tuples |
