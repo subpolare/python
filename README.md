@@ -13,7 +13,7 @@ These notebooks are intended for learning the Python programming language in rel
 | 5 | Notebook | Notebook | FASTA format, working with files (e.g. _Escherichia coli_ genome) | 
 |  | **Notebook** | **Notebook** | **Analysis of genomic sequences (Part I)** | 
 | 6 | Notebook | Notebook | The `random` module (e.g. for the _Arabidopsis thaliana_ and human genomes) | 
-| 7 | Notebook | Notebook | CSV format, the `numpy` and `pandas` modules for Data Science | 
+| 7 | Notebook | Notebook | CSV format, the `math`, `numpy` and `pandas` modules for Data Science | 
 | 8 | Notebook | Notebook | Using the `matplotlib` and `seaborn` modules for plotting (e.g. with the archaeal genome) | 
 |  | **Notebook** | **Notebook** | **Analysis of genomic sequences (Part II)** | 
 
