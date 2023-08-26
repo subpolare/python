@@ -6,7 +6,7 @@ These notebooks are intended for learning the Python programming language in rel
 
 |  | Links | Answers | Description | 
 | :------: | :------: | :------: | :------ | 
-| 1 | Presentation and Notebook | Notebook | Introduction to Python and variable types | 
+| 1 | Notebook | Notebook | Introduction to Python and variable types | 
 | 2 | Notebook | Notebook | `f-strings`, conditional statements `if-elif-else` and the `for` loop | 
 | 3 | Notebook | Notebook | The `while` loop, `lists` and `tuples` |
 | 4 | Notebook | Notebook | `Dictionaries`, `sets` and defining functions | 
