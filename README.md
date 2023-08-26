@@ -8,7 +8,7 @@ These notebooks are intended for learning the Python programming language in rel
 | 2 | Notebook | f-strings, conditional statements if-elif-else and the for loop | 
 | 3 | Notebook | The while loop, lists and tuples |
 | 4 | Notebook | Dictionaries, sets and defining functions | 
-| 5 | Notebook | Working with files (e.g. _Escherichia coli_ genome), FASTA format | 
+| 5 | Notebook | FASTA format, working with files (e.g. _Escherichia coli_ genome) | 
 | 6 | Notebook | **Analysis of genomic sequences (Part I)** | 
 | 7 | Notebook | The random module (e.g. for the _Arabidopsis thaliana_ and human genomes) | 
 | 8 | Notebook | CSV format, the numpy and pandas modules for Data Science | 
