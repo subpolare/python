@@ -8,7 +8,7 @@ These notebooks are intended for learning the Python programming language in rel
 | :------: | :------: | :------: | :------ | 
 | 0 | Presentation | — | Introduction to Python | 
 | 1 | Notebook | Notebook | Variable types | 
-| 2 | Notebook | Notebook | `f-strings`, conditional statements `if`, `elif`, and `else` and the `for` loop | 
+| 2 | Notebook | Notebook | `f-strings`, conditional statements `if`, `elif`, and `else`. The `for` loop | 
 | 3 | Notebook | Notebook | The `while` loop, `lists` and `tuples` |
 | 4 | Notebook | Notebook | `Dictionaries`, `sets` and defining functions | 
 | 5 | Notebook | Notebook | FASTA format, working with files (e.g. _Escherichia coli_ genome) | 
