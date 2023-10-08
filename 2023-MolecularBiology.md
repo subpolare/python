@@ -4,11 +4,12 @@ Introductory Molecular biology classes for high school students based on the [fo
 
 | № | Links | Hand-drown | Description | 
 | :-----: | :-----: | :----- | :----- |
-| 1 | [Presentation]() | [Presentation]() |  |
-| 2 | [Presentation]() | [Presentation]() |  |
-| 3 | [Presentation]() | [Presentation]() |  |
-| 4 | [Presentation]() | [Presentation]() |  |
-| 5 | [Presentation]() | [Presentation]() |  |
-| 6 | [Presentation]() | [Presentation]() |  |
-| 7 | [Presentation]() | [Presentation]() |  |
-| 8 | [Presentation]() | [Presentation]() |  |
+| 1 | [Presentation](https://disk.yandex.ru/i/sAtBM0ktEOI6QQ) | — | Nucleus structure |
+| 2 | [Presentation](https://disk.yandex.ru/i/kl7a95natvK6RA) | — | DNA History |
+| 3 | [Presentation](https://disk.yandex.ru/i/pbRc5rOAAQcR4w) | [Presentation](https://disk.yandex.ru/i/KaC-9bIJflnbyw) | DNA Structure |
+| 4 | [Presentation](https://disk.yandex.ru/i/hH9frShuB0lcbg) | [Presentation](https://disk.yandex.ru/i/YbY-PhU_pnTHGw) | Replication |
+| 5 | [Presentation](https://disk.yandex.ru/i/1aJT632diWty-w) | [Presentation](https://disk.yandex.ru/i/7v4CefCatbkNxQ) | Transcription |
+| 6 | [Presentation](https://disk.yandex.ru/i/M2KulNsZV9gMOQ) | [Presentation](https://disk.yandex.ru/i/nNsU902TCFFEDg) | Genetic code |
+| 7 | [Presentation](https://disk.yandex.ru/i/r5ORUOVQDdltTw) | [Presentation](https://disk.yandex.ru/i/XgckEXUvc_bcYQ) | Translation and Mutations |
+| 8 | [Presentation](https://disk.yandex.ru/i/IYnNNxYPV2J9sQ) | [Presentation](https://disk.yandex.ru/i/wTYxB2zr4Hl1eA) | Protein folding |
+| 9 | [Presentation](https://disk.yandex.ru/i/D7Go2lh4zb-3dA) | [Presentation](https://disk.yandex.ru/i/xyNkDkIMTm-vlw) | Methods |
