@@ -3,7 +3,7 @@
 Introductory Molecular biology classes for high school students based on the [following books](https://disk.yandex.ru/d/pT7b_Ny704gzDg) and various data from modern research. 
 
 | № | Links | Hand-drown | Description | 
-| :-----: | :-----: | :----- | :----- |
+| :-----: | :-----: | :-----: | :----- |
 | 1 | [Presentation](https://disk.yandex.ru/i/sAtBM0ktEOI6QQ) | — | Cell and nucleus structure |
 | 2 | [Presentation](https://disk.yandex.ru/i/kl7a95natvK6RA) | — | DNA History, discovery and study |
 | 3 | [Presentation](https://disk.yandex.ru/i/pbRc5rOAAQcR4w) | [Presentation](https://disk.yandex.ru/i/KaC-9bIJflnbyw) | Nucleic acid structure, DNA and RNA |
