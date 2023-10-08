@@ -1,4 +1,4 @@
-# Virology (Sprong 2023)
+# Virology (Spring 2023)
 
 Introductory virology classes for high school students based on the [Flint's Virology](https://disk.yandex.ru/i/oszn3EVmHo5XiA) and various data from modern research. 
 
