@@ -3,7 +3,7 @@
 Introductory Virology and Immunology classes for high school students based on the [Flint's Virology](https://disk.yandex.ru/i/oszn3EVmHo5XiA), [Janeway's Immunobiology](https://disk.yandex.ru/i/yxtCqMzjfZwCoA) and various data from modern research. 
 
 | № | Links | Hand-drown | Description | 
-| :-----: | :-----: | :----- | :----- |
+| :-----: | :-----: | :-----: | :----- |
 | 1 | [Presentation](https://disk.yandex.ru/i/y-6aFzpSCLH2OQ) | [Presentation](https://disk.yandex.ru/i/JmQtwuPdWpv79w) | Intoduction to Virology |
 | 2 | [Presentation](https://disk.yandex.ru/i/2oKhM4T9VedTGA) | [Presentation](https://disk.yandex.ru/i/Eczc0_UlVFwmvg) | RNA Viruses, Part I |
 | 3 | [Presentation](https://disk.yandex.ru/i/7uxc6d2qYDvbEg) | [Presentation](https://disk.yandex.ru/i/BrJcinLUO3Zl3A) | RNA Viruses, Part II |
