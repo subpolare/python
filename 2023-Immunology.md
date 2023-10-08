@@ -2,7 +2,7 @@
 
 Introductory Molecular biology classes for high school students based on the [Janeway's Immunobiology](https://disk.yandex.ru/i/yxtCqMzjfZwCoA) and various data from modern research. 
 
-| № | Links | Hand-drown Version | Description | 
+| № | Links | Hand-drown | Description | 
 | :-----: | :----- | :----- | :----- |
 | 1 | [Presentation]() | [Presentation]() |  |
 | 2 | [Presentation]() | [Presentation]() |  |
