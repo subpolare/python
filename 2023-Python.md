@@ -1,4 +1,4 @@
-# Python in Biology
+# Python in Biology (Autumn 2023)
 
 ## Lesson plan and notebooks
 
