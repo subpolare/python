@@ -4,11 +4,12 @@ Introductory Virology and Immunology classes for high school students based on t
 
 | № | Links | Hand-drown | Description | 
 | :-----: | :-----: | :----- | :----- |
-| 1 | [Presentation]() | [Presentation]() |  |
-| 2 | [Presentation]() | [Presentation]() |  |
-| 3 | [Presentation]() | [Presentation]() |  |
-| 4 | [Presentation]() | [Presentation]() |  |
-| 5 | [Presentation]() | [Presentation]() |  |
-| 6 | [Presentation]() | [Presentation]() |  |
-| 7 | [Presentation]() | [Presentation]() |  |
-| 8 | [Presentation]() | [Presentation]() |  |
+| 1 | [Presentation]() | [Presentation]() | Intoduction to Virology |
+| 2 | [Presentation]() | [Presentation]() | RNA Viruses, Part I |
+| 3 | [Presentation]() | [Presentation]() | RNA Viruses, Part II |
+| 4 | [Presentation]() | [Presentation]() | Inroduction to Immunology |
+| 5 | [Presentation]() | [Presentation]() | Reverse transcription Viruses |
+| - | [Questions]() | — | Colloquium on Virology and Immunology |
+| 6 | [Presentation]() | [Presentation]() | Type I Diabetes |
+| 7 | [Presentation]() | [Presentation]() | Multiple sclerosis and Lupus |
+| 8 | [Presentation]() | [Presentation]() | Rheumatoid arthritis |
