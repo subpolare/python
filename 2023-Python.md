@@ -5,9 +5,9 @@ These notebooks are intended for learning the Python programming language in rel
 |  | Links | Answers | Description | 
 | :------: | :------: | :------: | :------ | 
 | 1 | [Notebook](https://colab.research.google.com/drive/1hsL3ToeTnudcmI5K0SczRa7IUULYegKr?usp=sharing) | Notebook | Variable types and f-strings | 
-| 2 | [Notebook](https://colab.research.google.com/drive/134q5zESk7hPb9hvpwgG8mxiKYvtXYRZv?usp=sharing) | Notebook | Conditional statements `if`, `elif` and `else`, `for` loop | 
-| 3 | Notebook | Notebook | `While` loop, `lists`, `tuples` and `sets` |
-| 4 | Notebook | Notebook | `Dictionaries` and defining functions | 
+| 2 | [Notebook](https://colab.research.google.com/drive/134q5zESk7hPb9hvpwgG8mxiKYvtXYRZv?usp=sharing) | Notebook | Conditional statements `if`, `elif` and `else`, `for` and `while` loops | 
+| 3 | Notebook | Notebook | Sequences s.l.: `ranges`, `lists`, `tuples` and `sets`. Dictionaries |
+| 4 | Notebook | Notebook | Defining functions, classes and lambda functions | 
 | 5 | Notebook | Notebook | FASTA format, working with files (e.g. _Escherichia coli_ genome) | 
 |  | **Notebook** | **Notebook** | **Analysis of genomic sequences (Part I)** | 
 | 6 | Notebook | Notebook | The `random` module (e.g. for the _Arabidopsis thaliana_ and human genomes) | 
