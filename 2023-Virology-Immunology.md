@@ -1,6 +1,6 @@
-# 🦠 Virology and Immunology (Spring and Autumn, 2023)
+# 🦠 Virology and Immunology 
 
-Introductory Virology and Immunology classes for high school students based on the [Flint's Virology](https://disk.yandex.ru/i/oszn3EVmHo5XiA), [Janeway's Immunobiology](https://disk.yandex.ru/i/yxtCqMzjfZwCoA) and various data from modern research. 
+Introductory Virology and Immunology classes for high school students based on the [Flint's Virology](https://disk.yandex.ru/i/oszn3EVmHo5XiA), [Janeway's Immunobiology](https://disk.yandex.ru/i/yxtCqMzjfZwCoA) and various data from modern research. The course of lectures was delivered in the spring and autumn of 2023.
 
 | № | Links | Hand-drown | Description | 
 | :-----: | :-----: | :-----: | :----- |
