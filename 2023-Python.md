@@ -1,6 +1,6 @@
-# 👨‍💻 Python in Biology (Autumn 2023)
+# 👨‍💻 Python in Biology 
 
-These notebooks are intended for learning the Python programming language in relation to biological disciplines and bioinformatics in particular. Lessons are held in the [Google Coollaboratory](https://colab.research.google.com/) which can be used for any programming in Python, BASH and another.
+These notebooks are intended for learning the Python programming language in relation to biological disciplines and bioinformatics in particular. Lessons are held in the [Google Coollaboratory](https://colab.research.google.com/) which can be used for any programming in Python, BASH and another. Autumn course, 2023.
 
 |  | Links | Answers | Description | 
 | :------: | :------: | :------: | :------ | 
