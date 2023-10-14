@@ -1,6 +1,6 @@
 # 🧑‍🔬 Additional Biology classes for High school Students
 
-Additional classes in various biological disciplines, one way or another related to molecular biology. Below are descriptions of each course, and above you can find their pages.
+Additional classes in various biological disciplines, one way or another related to molecular biology. Below are descriptions of each course, and above you can find their pages. Many of them were read in two languages at once: Russian and English, and therefore English prevails in the presentations.
 
 | | When is read | Course name | Short description |
 | :---: | :---: | :---: | :--- |
