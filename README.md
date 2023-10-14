@@ -1,4 +1,4 @@
-# 🧑‍🔬 Additional biology classes for high school students
+# 🧑‍🔬 Additional Biology classes for High school Students
 
 Additional classes in various biological disciplines, one way or another related to molecular biology. Below are descriptions of each course, and above you can find their pages.
 
