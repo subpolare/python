@@ -7,7 +7,7 @@ These notebooks are intended for learning the Python programming language in rel
 | 1 | [Notebook](https://colab.research.google.com/drive/1hsL3ToeTnudcmI5K0SczRa7IUULYegKr?usp=sharing) | Notebook | Variable types and f-strings | 
 | 2 | [Notebook](https://colab.research.google.com/drive/134q5zESk7hPb9hvpwgG8mxiKYvtXYRZv?usp=sharing) | Notebook | Conditional statements `if`, `elif` and `else`, `for` and `while` loops | 
 | 3 | [Notebook](https://colab.research.google.com/drive/13y1J3-1HQUpRnXi3KdJ-C-WzoOfD3GYk?usp=sharing) | Notebook | Sequences: `ranges`, `lists`, `tuples` and `sets` |
-| 4 | Notebook | Notebook | Dicts and Defining functions | 
+| 4 | Notebook | Notebook | Dictionariess and defining functions | 
 | 5 | Notebook | Notebook | FASTA format, working with files (e.g. _Escherichia coli_ genome) | 
 |  | **Notebook** | **Notebook** | **Analysis of genomic sequences (Part I)** | 
 | 6 | Notebook | Notebook | The `random` module (e.g. for the _Arabidopsis thaliana_ and human genomes) | 
