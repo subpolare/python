@@ -4,7 +4,7 @@ These notebooks are intended for learning the Python programming language in rel
 
 |  | Links | Answers | Description | 
 | :------: | :------: | :------: | :------ | 
-| 1 | [Notebook](https://colab.research.google.com/drive/1hsL3ToeTnudcmI5K0SczRa7IUULYegKr?usp=sharing) | [Tasks](https://colab.research.google.com/drive/1j6NJsGr6heDho9WC-E-51R_6eEcy1p9d?usp=sharing) | Variable types and f-strings | 
+| 1 | [Notebook](https://colab.research.google.com/drive/1hsL3ToeTnudcmI5K0SczRa7IUULYegKr?usp=sharing) | [Tasks](https://colab.research.google.com/drive/1L0Pk4RzXTYBIQIS1TJ-ygOc_rspHYfrs?usp=sharing) | Variable types and f-strings | 
 | 2 | [Notebook](https://colab.research.google.com/drive/134q5zESk7hPb9hvpwgG8mxiKYvtXYRZv?usp=sharing) | [Tasks](https://colab.research.google.com/drive/1xF-PqdUFYvpLsUI646YiDYybAwD4Y_0d?usp=sharing) | Conditional statements `if`, `elif` and `else`, `for` and `while` loops | 
 | 3 | [Notebook](https://colab.research.google.com/drive/13y1J3-1HQUpRnXi3KdJ-C-WzoOfD3GYk?usp=sharing) | [Tasks](https://colab.research.google.com/drive/1Prm65Egy33HK68mxs9UFDcIGD86K4efx?usp=sharing) | Sequences: `ranges`, `lists`, `tuples` and `sets` |
 | 4 | [Notebook](https://colab.research.google.com/drive/16j9r72PWu-BgbXwe_bMZ_QZwXneR_zNd?usp=sharing) | [Tasks](https://colab.research.google.com/drive/18RDZ4svQsspZExpG9AUJVAOftSNxy79D?usp=sharing) | Dictionariess and defining functions | 
