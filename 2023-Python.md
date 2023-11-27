@@ -15,6 +15,8 @@
 | 8 | Notebook | Tasks | Using the `matplotlib` and `seaborn` modules for plotting (e.g. with the archaeal genome) | 
 |  | **Notebook** | **Tasks** | **Analysis of genomic sequences (Part II)** | 
 
+## Supplementary and aditional materials
+
 📚 **Additional literature** and lectures on the block, development paths and a little bit about why Python is needed at all can be found at the link [in the corresponding article](https://vk.com/@nachatoi-literatura-po-python). It is updated every few months as I learn about new courses. If you also know something interesting that is in the public domain, I will be glad to add it to the article. 
 
 🫠 **An anecdote ** about bioinformatics, which will not leave questions about who these strange people are (and you have already become them a little), can be read on [website «Элементы»](https://elementy.ru/nauchno-populyarnaya_biblioteka/432183/Bioinformatiki_proiskhozhdenie_i_zhiznennyy_tsikl). I advise everyone to read it! Without this, it is impossible to get a credit (joke). 
