@@ -1,6 +1,6 @@
 # 💻 Python in Biology 
 
-These notebooks are intended for learning the Python programming language in relation to biological disciplines and bioinformatics in particular. Lessons are held in the [Google Coollaboratory](https://colab.research.google.com/) which can be used for any programming in Python, BASH and another. Autumn course, 2023.
+👨‍💻 These notebooks are intended for learning the Python programming language in relation to biological disciplines and bioinformatics in particular. Lessons are held in the [Google Coollaboratory](https://colab.research.google.com/) which can be used for any programming in Python, BASH and another. Autumn course, 2023.
 
 |  | Links | Answers | Description | 
 | :------: | :------: | :------: | :------ | 
@@ -15,4 +15,8 @@ These notebooks are intended for learning the Python programming language in rel
 | 8 | Notebook | Tasks | Using the `matplotlib` and `seaborn` modules for plotting (e.g. with the archaeal genome) | 
 |  | **Notebook** | **Tasks** | **Analysis of genomic sequences (Part II)** | 
 
-**Additional literature** on the block can be found at the link [in the article](https://vk.com/@nachatoi-literatura-po-python). Also **anecdote about bioinformatics** can be found [via the link](https://elementy.ru/nauchno-populyarnaya_biblioteka/432183/Bioinformatiki_proiskhozhdenie_i_zhiznennyy_tsikl) :)
+📚 **Additional literature** and lectures on the block, development paths and a little bit about why Python is needed at all can be found at the link [in the corresponding article] (https://vk.com/@nachatoi-literatura-po-python ). It is updated every few months as I learn about new courses. If you also know something interesting that is in the public domain, I will be glad to add it to the article. 
+
+🫠 **An anecdote ** about bioinformatics, which will not leave questions about who these strange people are (and you have already become them a little), can be read on [website «Элементы»](https://elementy.ru/nauchno-populyarnaya_biblioteka/432183/Bioinformatiki_proiskhozhdenie_i_zhiznennyy_tsikl). I advise everyone to read it! Without this, it is impossible to get a credit (joke). 
+
+📑 **The article** about the variants of start codons and stop codons and their evolution to the tasks of the fourth lecture can be found on [the same website "Elements"] (https://elementy.ru/problems/3023/Ot_nachala_do_kontsa ). I tried to draw beautiful pictures and describe it in as much detail as possible from the point of view of molecular biology.
