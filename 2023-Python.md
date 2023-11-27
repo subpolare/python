@@ -19,4 +19,4 @@
 
 🫠 **An anecdote ** about bioinformatics, which will not leave questions about who these strange people are (and you have already become them a little), can be read on [website «Элементы»](https://elementy.ru/nauchno-populyarnaya_biblioteka/432183/Bioinformatiki_proiskhozhdenie_i_zhiznennyy_tsikl). I advise everyone to read it! Without this, it is impossible to get a credit (joke). 
 
-📑 **The article** about the variants of start codons and stop codons and their evolution to the tasks of the fourth lecture can be found on [the same website "Elements"] (https://elementy.ru/problems/3023/Ot_nachala_do_kontsa ). I tried to draw beautiful pictures and describe it in as much detail as possible from the point of view of molecular biology.
+📑 **The article** about the variants of start codons and stop codons and their evolution to the tasks of the fourth lecture can be found on [the same website «Элементы»](https://elementy.ru/problems/3023/Ot_nachala_do_kontsa). I tried to draw beautiful pictures and describe it in as much detail as possible from the point of view of molecular biology.
