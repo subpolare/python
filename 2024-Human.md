@@ -10,5 +10,5 @@ Introduction to human medical physiology and the main diseases of various organ 
 
 | № | Date | Presentation | With notes | Description | 
 | :-----: | :-----: | :-----: | :-----: | :----- |
-| 1 | 12.I.2024 | Intro | HD-Intro | Introduction to Human sciences |
+| 1 | January 12, 2024 | Intro | HD-Intro | Introduction to Human sciences |
 
