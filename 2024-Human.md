@@ -17,7 +17,7 @@
 * Endocrine system 
 * Reproductive system 
 
-📚 As additional literature, I can leave several groups of textbooks at once. There are a couple of good English ooks on Yandex.Disk, and in VK posts there are mostly Russian books with a brief description.
+📚 As additional literature, I can leave several groups of ooks at once. There are a couple of good English ooks on Yandex.Disk, and in VK posts there are mostly Russian books with a brief description.
 
 | The science | Description | Yandex.Disk | VK Post | 
 | ----- | ----- | :-----: | :-----: | 
