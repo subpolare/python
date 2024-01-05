@@ -8,7 +8,7 @@ Introduction to human medical physiology and the main diseases of various organ 
 * [Immunology](https://disk.yandex.ru/d/kr-LvZ230ZSM3g) is the science of the immune system.
 * [Neuroscience](https://disk.yandex.ru/d/Jn7zNqFFRu_FzQ) is the science of the functioning of the brain and the entire nervous system.
 
-| № | Presentation | With notes | Description | 
-| :-----: | :-----: | :-----: | :----- |
-| 1 | Intro | HD-Intro | Introduction to Human sciences |
+| № | Date | Presentation | With notes | Description | 
+| :-----: | :-----: | :-----: | :-----: | :----- |
+| 1 | 12.I.2024 | Intro | HD-Intro | Introduction to Human sciences |
 
