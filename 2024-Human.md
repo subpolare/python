@@ -9,11 +9,9 @@
 
 🧠 We will go through the organ systems in this orderю 
 * Skeletal and Muscular systems 
-* Cardiovascular system 
-* Immune system 
+* Cardiovascular and Immune systems
 * Respiratory system 
-* Digestive system 
-* Urinary system 
+* Digestive and Urinary systems
 * Nervous system 
 * Endocrine system 
 * Reproductive system 
