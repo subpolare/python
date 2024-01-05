@@ -4,6 +4,7 @@
 
 | № | Date | Presentation | With notes | Description | Videos |
 | :-----: | :-----: | :-----: | :-----: | ----- | ----- |
+|  |  |  |  |  |  |
 | 1 | January 12, 2024 | Intro | HD Intro | Introduction to Human sciences | — |
 | 2 | January 19, 2024 | Part I  | HD Part I | Skeletal and Muscular systems | ... |
 | 3 | January 26, 2024 | ...  | ... | ... | ... |
@@ -21,6 +22,7 @@
 
 | Science | Description | Yandex.Disk | VK Post | 
 | ----- | ----- | :-----: | :-----: | 
+|  |  |  |  | 
 | Physiology | About the functioning of our body, more research science | [English](https://disk.yandex.ru/d/bTB8F2Tn3e39vw) | [English and Russian](https://vk.com/wall-93139590_697) |
 | Anatomy | About the structure of our body, more medical science | [English](https://disk.yandex.ru/d/ZlSzm7qxu-XpAg) | [English and Russian](https://vk.com/wall-93139590_4799) |
 | Histology | Tissue science | [English](https://disk.yandex.ru/d/ouFDwAunKhrfRA) | [English and Russian](https://vk.com/wall-93139590_990) |
