@@ -3,7 +3,7 @@
 🫁 Introduction to human medical physiology and the main diseases of various organ systems. We will discuss all human organ systems and in general terms their structure and functioning. From the medical part, we will touch a little on medicines and various diseases. We will omit only the immune system, since it was discussed [before](https://github.com/subpolare/france/blob/main/2023-Virology-Immunology.md).
 
 | № | Date | Presentation | With notes | Description | 
-| :-----: | :-----: | :-----: | :-----: | :----- |
+| :-----: | :-----: | :-----: | :-----: | ----- |
 | 1 | January 12, 2024 | Intro | HD Intro | Introduction to Human sciences |
 | 2 | January 19, 2024 | Part I  | HD Part I | Skeletal and Muscular systems |
 | 3 | January 26, 2024 | ...  | ... | ... |
