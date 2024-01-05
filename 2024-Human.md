@@ -5,6 +5,7 @@
 | № | Date | Presentation | With notes | Description | 
 | :-----: | :-----: | :-----: | :-----: | :----- |
 | 1 | January 12, 2024 | Intro | HD-Intro | Introduction to Human sciences |
+| 2 | January 19, 2024 | ... | ... | ... |
 
 📚 As additional literature, I can leave several groups of textbooks at once. There are a couple of good English ooks on Yandex.Disk, and in VK posts there are mostly Russian books with a brief description.
 
