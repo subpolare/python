@@ -16,3 +16,5 @@
 | Immunology | Avout the immunity and immune system (with viruses' stories) | [English](https://disk.yandex.ru/d/kr-LvZ230ZSM3g) | [English and Russian](https://vk.com/wall-93139590_3272) |
 | Neuroscience | About the brain and the entire nervous system | [English](https://disk.yandex.ru/d/Jn7zNqFFRu_FzQ) | — |
 | Embryology | ABout development of embryos, and historically not only human one | — | [English and Russian](https://vk.com/wall-93139590_649) |
+
+📺 Of the interesting popular science videos, I can recommend [this one about the immune system](https://youtu.be/SYPPbaB63MQ) to quickly remember it, and about [bacteria and medicines](https://youtu.be/34miIdWnFSU). And also soon a video about cancer will be released [on the same channel](https://www.youtube.com/@toplesofficial), we're working on it.
