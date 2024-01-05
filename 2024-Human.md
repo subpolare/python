@@ -6,6 +6,7 @@
 | :-----: | :-----: | :-----: | :-----: | :----- |
 | 1 | January 12, 2024 | Intro | HD Intro | Introduction to Human sciences |
 | 2 | January 19, 2024 | Part I  | HD Part I | Skeletal and Muscular systems |
+| 3 | January 26, 2024 | ...  | ... | ... |
 
 🧠 We will go through the organ systems in this orderю 
 * Skeletal and Muscular systems 
