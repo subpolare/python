@@ -6,16 +6,17 @@
 | :-----: | :-----: | :-----: | :-----: | :----- |
 | 1 | January 12, 2024 | Intro | HD-Intro | Introduction to Human sciences |
 | 2 | January 19, 2024 | ... | ... | ... |
-|  |  |  |  |  |
-| I | ... | ... | ... | Skeletal and Muscular systems |
-| II | ... | ... | ... | Cardiovascular system 🫀 |
-| III | ... | ... | ... | Immune system |
-| IV | ... | ... | ... | Respiratory system |
-| V | ... | ... | ... | Digestive system |
-| VI | ... | ... | ... | Urinary system |
-| VII | ... | ... | ... | Nervous system |
-| VIII | ... | ... | ... | Endocrine system |
-| IX | ... | ... | ... | Reproductive system |
+
+🧠 We will go through the organ systems in this orderю 
+* Skeletal and Muscular systems 
+* Cardiovascular system 
+* Immune system 
+* Respiratory system 
+* Digestive system 
+* Urinary system 
+* Nervous system 
+* Endocrine system 
+* Reproductive system 
 
 📚 As additional literature, I can leave several groups of textbooks at once. There are a couple of good English ooks on Yandex.Disk, and in VK posts there are mostly Russian books with a brief description.
 
