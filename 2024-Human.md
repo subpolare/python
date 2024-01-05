@@ -8,7 +8,7 @@
 | 2 | January 19, 2024 | Part I  | HD Part I | Skeletal and Muscular systems | ... |
 | 3 | January 26, 2024 | ...  | ... | ... | ... |
 
-🧠 We will go through the organ systems in this orderю 
+🧠 We will go through the organ systems in this order.
 * Skeletal and Muscular systems 
 * Cardiovascular and Immune systems
 * Respiratory system 
