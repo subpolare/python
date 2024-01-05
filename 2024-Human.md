@@ -9,7 +9,7 @@
 
 📚 As additional literature, I can leave several groups of textbooks at once. There are a couple of good English ooks on Yandex.Disk, and in VK posts there are mostly Russian books with a brief description.
 
-| The science | Description | VK Post | Yandex.Disk | 
+| The science | Description | Yandex.Disk | VK Post | 
 | ----- | ----- | :-----: | :-----: | 
 | Physiology | About the functioning of our body, more research science | [English](https://disk.yandex.ru/d/bTB8F2Tn3e39vw) | [English and Russian](https://vk.com/wall-93139590_697) |
 | Anatomy | About the structure of our body, more medical science | [English](https://disk.yandex.ru/d/ZlSzm7qxu-XpAg) | [English and Russian](https://vk.com/wall-93139590_4799) |
