@@ -8,7 +8,7 @@
 | 2 | January 19, 2024 | ... | ... | ... |
 |  |  |  |  |  |
 | I | ... | ... | ... | Skeletal and Muscular systems |
-| II | 🫀🫀🫀 | ... | ... | Cardiovascular system |
+| II | 🫀 | 🫀 | 🫀 | Cardiovascular system |
 | III | ... | ... | ... | Immune system |
 | IV | ... | ... | ... | Respiratory system |
 | V | ... | ... | ... | Digestive system |
