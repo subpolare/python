@@ -5,7 +5,7 @@
 | № | Date | Presentation | With notes | Description | Videos |
 | :-----: | :-----: | :-----: | :-----: | ----- | ----- |
 |  |  |  |  |  |  |
-| 1 | January 12, 2024 | [Prologue](https://disk.yandex.ru/i/b8tPuK8po7Sq1w) | With comments | Introduction to Human sciences and overview to the Cell structure | [Cell Structure](https://youtu.be/0xe1s65IH0w) |
+| 1 | January 12, 2024 | [Prologue](https://disk.yandex.ru/i/b8tPuK8po7Sq1w) | With comments | Overview and the Cell structure | [Cell Structure](https://youtu.be/0xe1s65IH0w) |
 | 2 | January 19, 2024 | Chapter I  | With comments | Skeletal and Muscular systems | ... |
 | 3 | January 26, 2024 | ...  | ... | ... | ... |
 
