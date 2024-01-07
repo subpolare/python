@@ -6,17 +6,17 @@
 | :-----: | :-----: | :-----: | :-----: | ----- | ----- |
 |  |  |  |  |  |  |
 | 1 | January 12, 2024 | [Prologue](https://disk.yandex.ru/i/b8tPuK8po7Sq1w) | With comments | **Overview and the Cell structure** | [Cell Structure](https://youtu.be/0xe1s65IH0w) |
-| 2 | January 19, 2024 | Chapter I  | With comments | **Skeletal and Muscular systems** | ... |
+| 2 | January 19, 2024 | Chapter I, Part I  | With comments | **Overview of Skeleton** | ... |
 | 3 | January 26, 2024 | ...  | ... | ... | ... |
 
 🧠 We will go through the organ systems in this order.
-* Skeletal and Muscular systems 
-* Cardiovascular and Immune systems
-* Respiratory system 
-* Digestive and Urinary systems
-* Nervous system 
-* Endocrine system 
-* Reproductive system 
+* Chapter I: Skeletal and Muscular systems 
+* Chapter II: Cardiovascular and Immune systems
+* Chapter III: Respiratory system 
+* Chapter IV: Digestive and Urinary systems
+* Chapter V: Nervous system 
+* Chapter VI: Endocrine system 
+* Chapter VII: Reproductive system 
 
 📚 As additional literature, I can leave several groups of ooks at once. There are a couple of good English ooks on Yandex.Disk, and in VK posts there are mostly Russian books with a brief description.
 
