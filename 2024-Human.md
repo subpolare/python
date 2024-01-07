@@ -10,13 +10,13 @@
 | 3 | January 26, 2024 | ...  | ... | ... | ... |
 
 🧠 We will go through the organ systems in this order.
-* Chapter I: Skeletal and Muscular systems 
-* Chapter II: Cardiovascular and Immune systems
-* Chapter III: Respiratory system 
-* Chapter IV: Digestive and Urinary systems
-* Chapter V: Nervous system 
-* Chapter VI: Endocrine system 
-* Chapter VII: Reproductive system 
+* **Chapter I**: Skeletal and Muscular systems 
+* **Chapter II**: Cardiovascular and Immune systems
+* **Chapter III**: Respiratory system 
+* **Chapter IV**: Digestive and Urinary systems
+* **Chapter V**: Nervous system 
+* **Chapter VI**: Endocrine system 
+* **Chapter VII**: Reproductive system 
 
 📚 As additional literature, I can leave several groups of ooks at once. There are a couple of good English ooks on Yandex.Disk, and in VK posts there are mostly Russian books with a brief description.
 
