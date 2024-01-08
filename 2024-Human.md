@@ -35,7 +35,7 @@
 | Neuroscience | About the brain and the entire nervous system | [English](https://disk.yandex.ru/d/Jn7zNqFFRu_FzQ) | — |
 | Embryology | ABout development of embryos, and historically not only human one | — | [English and Russian](https://vk.com/wall-93139590_649) |
 
-# A Prequel story to the Human Science
+# 🩻 A Prequel story to the Human Science
 
 🦠 A useful way is to remember that we studied immunology, I duplicate our presentations. If you have any questions, you can always ask them.
 
