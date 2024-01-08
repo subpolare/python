@@ -17,7 +17,14 @@
 * **Chapter IV**: Digestive and Urinary systems
 * **Chapter V**: Nervous system 
 * **Chapter VI**: Endocrine system 
-* **Chapter VII**: Reproductive system 
+* **Chapter VII**: Reproductive system
+
+| № | Date | Presentation | With notes | Description | Additoonal |
+| :-----: | :-----: | :-----: | :-----: | ----- | ----- |
+| 1 | June 9, 2024 | [Chapter II, Prequel I](https://disk.yandex.ru/i/VMgwPjqGswCcUg) | [With comments](https://disk.yandex.ru/i/3Ufszli6izX8sg) | **Immune cells and Allergy** |  |
+| 2 | September 1, 2024 | [Chapter II, Prequel II](https://disk.yandex.ru/i/mRSvkTkKr1yMzw) | [With comments](https://disk.yandex.ru/i/CjRzkwVLbk4kcQ) | **Type I Diabetes** |  |
+| 3 | September 5, 2024 | [Chapter II, Prequel II](https://disk.yandex.ru/i/j6ac2e0f6KDUJA) | [With comments](https://disk.yandex.ru/i/jBtkcq7dI3qNbg) | **Multiple sclerosis and Lupus** |  |
+| 4 | September 22, 2024 | [Chapter II, Prequel IV](https://disk.yandex.ru/i/vR1VxDwsWYS3ow) | [With comments](https://disk.yandex.ru/i/vT9ybLgrXMDtRg) | **Rheumatoid arthritis** |  |
 
 📚 As additional literature, I can leave several groups of ooks at once. There are a couple of good English ooks on Yandex.Disk, and in VK posts there are mostly Russian books with a brief description.
 
