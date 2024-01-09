@@ -33,7 +33,7 @@
 | Histology | Tissue science | [English](https://disk.yandex.ru/d/ouFDwAunKhrfRA) | [English and Russian](https://vk.com/wall-93139590_990) |
 | Immunology | Avout the immunity and immune system (with viruses' stories) | [English](https://disk.yandex.ru/d/kr-LvZ230ZSM3g) | [English and Russian](https://vk.com/wall-93139590_3272) |
 | Neuroscience | About the brain and the entire nervous system | [English](https://disk.yandex.ru/d/Jn7zNqFFRu_FzQ) | — |
-| Embryology | ABout development of embryos, and historically not only human one | — | [English and Russian](https://vk.com/wall-93139590_649) |
+| Embryology | About development of embryos, and historically not only human one | — | [English and Russian](https://vk.com/wall-93139590_649) |
 
 📖 But all these books are harsh university textbooks, which in 9 out of 10 cases will be difficult even for fairly intelligent students. You should read them very carefully, skipping the difficult ones, but it's better to just admire their gorgeous pictures (in books about Human, they are much more beautiful than anywhere else).
 
