@@ -4,7 +4,7 @@
 
 🫁 Introduction to human sciences and the main diseases of various organ systems. We will discuss all human organ systems and in general terms their structure and functioning. From the medical part, we will touch a little on medicines and various diseases. We will omit only the immune system, since it was discussed [before](https://github.com/subpolare/france/blob/main/2023-Virology-Immunology.md). Also [here](https://disk.yandex.ru/d/GrtnUE2wBBBAsQ) you can download all the presentations at once.
 
-| № | Date | Presentation | With notes | Description | Additoonal |
+| № | Date | Presentation | With notes | Description | Additional |
 | :-----: | ----- | :-----: | :-----: | ----- | ----- |
 |  |  |  |  |  |  |
 | 1 | January 12, 2024 | [Prologue](https://disk.yandex.ru/i/yZmpww5MvAPYxQ) | With comments | **Overview and the Cell structure** | [Cell Structure](https://youtu.be/0xe1s65IH0w) |
@@ -41,7 +41,7 @@
 
 🦠 A useful way is to remember that we studied immunology, I duplicate our presentations. If you have any questions, you can always ask them.
 
-| № | Date | Presentation | With notes | Description | Additoonal |
+| № | Date | Presentation | With notes | Description | Additional |
 | :-----: | ----- | :-----: | :-----: | ----- | ----- |
 |  |  |  |  |  |  |
 | 1 | May 26, 2024 | [Chapter II, Prequel I](https://disk.yandex.ru/i/DAn8N-Ey7BORqQ) | [With comments](https://disk.yandex.ru/i/jN07K7vCameGFw) | **Inroduction to Immunology** | [Overview](https://youtu.be/SYPPbaB63MQ) by TOPLES YouTube Production, [Complement system](https://youtu.be/BSypUV6QUNw) by Kurzgesagt |
