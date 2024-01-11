@@ -31,7 +31,7 @@
 | Physiology | About the functioning of our body, more research science | [English](https://disk.yandex.ru/d/bTB8F2Tn3e39vw) | [English and Russian](https://vk.com/wall-93139590_697) |
 | Anatomy | About the structure of our body, more medical science | [English](https://disk.yandex.ru/d/ZlSzm7qxu-XpAg) | [English and Russian](https://vk.com/wall-93139590_4799) |
 | Histology | Tissue science | [English](https://disk.yandex.ru/d/ouFDwAunKhrfRA) | [English and Russian](https://vk.com/wall-93139590_990) |
-| Immunology | Avout the immunity and immune system (with viruses' stories) | [English](https://disk.yandex.ru/d/kr-LvZ230ZSM3g) | [English and Russian](https://vk.com/wall-93139590_3272) |
+| Immunology | About the immunity and immune system (with viruses' stories) | [English](https://disk.yandex.ru/d/kr-LvZ230ZSM3g) | [English and Russian](https://vk.com/wall-93139590_3272) |
 | Neuroscience | About the brain and the entire nervous system | [English](https://disk.yandex.ru/d/Jn7zNqFFRu_FzQ) | — |
 | Embryology | About development of embryos, and historically not only human one | — | [English and Russian](https://vk.com/wall-93139590_649) |
 
