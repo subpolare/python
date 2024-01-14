@@ -17,7 +17,8 @@
 * **Chapter II**: Cardiovascular and Immune systems
 * **Chapter III**: Respiratory system 
 * **Chapter IV**: Digestive and Urinary systems
-* **Chapter V**: Nervous system 
+* **Chapter V**: Nervous system
+* **Digression**: Cancer
 * **Chapter VI**: Endocrine system 
 * **Chapter VII**: Reproductive system
 
