@@ -8,8 +8,8 @@
 | :-----: | ----- | :-----: | :-----: | ----- | ----- |
 |  |  |  |  |  |  |
 | 1 | January 12, 2024 | [Prologue](https://disk.yandex.ru/i/yZmpww5MvAPYxQ) | With comments | **Overview and the Cell structure** | [Cell Structure](https://youtu.be/0xe1s65IH0w) |
-| 2 | January 19, 2024 | Chapter I, Part I  | With comments | **Anatomy of the Skeleton** | [Grey's Anatomy](https://disk.yandex.ru/i/s_Qfc-wtsF03jw) |
-| 3 | January 26, 2024 | Chapter I, Part II  | With comments | **Histology: bone, cartilage and muscle tissue** | [Histology Atlas](https://disk.yandex.ru/i/vB8RB2M96gkMag) |
+| 2 | January 19, 2024 | [Chapter I, Part I](https://disk.yandex.ru/i/P30-ttGKp7ONpw) | With comments | **Anatomy of the Skeleton** | [Grey's Anatomy](https://disk.yandex.ru/i/s_Qfc-wtsF03jw) |
+| 3 | January 26, 2024 | Chapter I, Part II | With comments | **Histology: bone, cartilage and muscle tissue** | [Histology Atlas](https://disk.yandex.ru/i/vB8RB2M96gkMag) |
 | ... | ... | ... | ... | ... | ... |
 
 🧠 We will go through the organ systems in this order.
