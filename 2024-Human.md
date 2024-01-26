@@ -10,7 +10,7 @@
 | 1 | January 12, 2024 | [Prologue](https://disk.yandex.ru/i/yZmpww5MvAPYxQ) | [With comments](https://disk.yandex.ru/i/21dN31fsvywdNw) | **Overview and the Cell structure** | [Cell Structure](https://youtu.be/0xe1s65IH0w) |
 | 2 | January 19, 2024 | [Chapter I, Part I](https://disk.yandex.ru/i/P30-ttGKp7ONpw) | [With comments](https://disk.yandex.ru/i/G0iVtTJDq8RLHQ) | **Anatomy of the Skeleton** | [Grey's Anatomy](https://disk.yandex.ru/i/s_Qfc-wtsF03jw) |
 | 3 | January 26, 2024 | [Chapter I, Part II](https://disk.yandex.ru/i/DO_K0DbqKcO_zA) | [With comments](https://disk.yandex.ru/i/ljhyUYMx8bZUbA) | **Histology: bone, cartilage and muscle tissue** | [Histology Atlas](https://disk.yandex.ru/i/vB8RB2M96gkMag) |
-| 4 | February 2, 2024 | Chapter II, Part II | With comments | **Blood vessels and Heart** | — |
+| 4 | February 2, 2024 | Chapter II, Part I | With comments | **Blood vessels and Heart** | — |
 | 5 | February 9, 2024 | Chapter II, Part II | With comments | **Heart and Pathology** | — |
 | ... | ... | ... | ... | ... | ... |
 
