@@ -5,7 +5,7 @@
 🫁 Introduction to human sciences and the main diseases of various organ systems. We will discuss all human organ systems and in general terms their structure and functioning. From the medical part, we will touch a little on medicines and various diseases. We will omit only the immune system, since it was discussed [before](https://github.com/subpolare/france/blob/main/2023-Virology-Immunology.md). Also [here](https://disk.yandex.ru/d/GrtnUE2wBBBAsQ) you can download all the presentations at once.
 
 | № | Date | Presentation | With notes | Description | Additional |
-| :-----: | ----- | :-----: | :-----: | ----- | ----- |
+| :-----: | :-----: | :-----: | :-----: | ----- | ----- |
 |  |  |  |  |  |  |
 | 1 | January 12, 2024 | [Prologue](https://disk.yandex.ru/i/yZmpww5MvAPYxQ) | [With comments](https://disk.yandex.ru/i/21dN31fsvywdNw) | **Overview and the Cell structure** | [Cell Structure](https://youtu.be/0xe1s65IH0w) |
 | 2 | January 19, 2024 | [Chapter I, Part I](https://disk.yandex.ru/i/P30-ttGKp7ONpw) | [With comments](https://disk.yandex.ru/i/G0iVtTJDq8RLHQ) | **Anatomy of the Skeleton** | [Grey's Anatomy](https://disk.yandex.ru/i/s_Qfc-wtsF03jw) |
