@@ -12,6 +12,7 @@
 | 3 | January 26, 2024 | [Ch. I, Part II](https://disk.yandex.ru/i/DO_K0DbqKcO_zA) | [Comments](https://disk.yandex.ru/i/ljhyUYMx8bZUbA) | Histology: bone, cartilage and muscle tissue | [Histology Atlas](https://disk.yandex.ru/i/vB8RB2M96gkMag) |
 | 4 | February and March, 2024 | [Ch. II, Part I](https://disk.yandex.ru/i/dxXnJytk13PlQg) | [Comments](https://disk.yandex.ru/i/ehJN8AEOX_3Zxg) | Blood vessels and Heart | — |
 | 5 | April, 2024 | [Ch. II, Part II]() | Comments | Immunology and Cancer | — |
+| 6 | May, 2024 | Chapter III | Comments | Lungs and deep sighs | — |
 | ... | ... | ... | ... | ... | ... |
 
 🧠 We will go through the organ systems in this order.
